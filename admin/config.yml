@@ -2,7 +2,8 @@ backend:
   name: github
   repo: mtoni2/mundotecno
   branch: main
-  auth_type: pkce # Esto permite el login directo sin servidores externos
+  base_url: https://gatekeeper-v6id.onrender.com # Este es el puente gratuito
+  auth_endpoint: oauth/authorize
 
 media_folder: "img"
 public_folder: "/img"
