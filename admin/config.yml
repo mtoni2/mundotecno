@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: TU_USUARIO/mundotecno # CAMBIA "TU_USUARIO" por tu nombre de usuario de GitHub
+  repo: mtoni2/mundotecno # CAMBIA "TU_USUARIO" por tu nombre de usuario de GitHub
   branch: main
 
 media_folder: "img" # Donde se guardarán las fotos
