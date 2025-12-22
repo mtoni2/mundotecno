@@ -1,9 +1,10 @@
 backend:
   name: github
-  repo: mtoni2/mundotecno # CAMBIA "TU_USUARIO" por tu nombre de usuario de GitHub
+  repo: mtoni2/mundotecno
   branch: main
+  auth_type: pkce # Esto permite el login directo sin servidores externos
 
-media_folder: "img" # Donde se guardarán las fotos
+media_folder: "img"
 public_folder: "/img"
 
 collections:
