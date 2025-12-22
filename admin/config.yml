@@ -2,8 +2,7 @@ backend:
   name: github
   repo: mtoni2/mundotecno
   branch: main
-  base_url: https://gatekeeper-v6id.onrender.com # Este es el puente gratuito
-  auth_endpoint: oauth/authorize
+  auth_type: implicit
   app_id: Ov23liyLlMQeCfxLoinY
 
 media_folder: "img"
