@@ -4,6 +4,7 @@ backend:
   branch: main
   base_url: https://gatekeeper-v6id.onrender.com # Este es el puente gratuito
   auth_endpoint: oauth/authorize
+  app_id: Ov23liyLlMQeCfxLoinY
 
 media_folder: "img"
 public_folder: "/img"
