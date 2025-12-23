@@ -3,7 +3,7 @@ backend:
   repo: mtoni2/mundotecno
   branch: main
   auth_type: implicit
-  app_id: Ov23liyLlMQeCfxLoinY
+  app_id: Ov23liHFvMkWIUsua1EQ
 
 media_folder: "img"
 public_folder: "/img"
